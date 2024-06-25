@@ -1,6 +1,6 @@
 # Slicing Tool 🛠️✨
 
-Welcome to the **Static Variable Slicing Tool**, a Python-based utility designed to perform static slicing on source code to identify variable dependencies and line numbers. This tool is specifically developed for the Software Maintenance and Evolution course, providing a practical approach to understanding and analyzing variable dependencies in Python code.
+Welcome to the **Slicing Tool** project, a Python-based utility designed to perform slicing on source code to identify variable dependencies and line numbers. This tool is specifically developed for the Software Maintenance and Evolution course, providing a practical approach to understanding and analyzing variable dependencies in Python code.
 
 ## Project Overview
 
