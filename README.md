@@ -30,10 +30,6 @@ To ensure accurate slicing results and compatibility with the tool, please obser
 - Unassigned variables are not supported; all variables must be initialized and assigned a value.
 - Print statements are disregarded in the analysis.
 
-### Conclusion
-
-The **Static Variable Slicing Tool** provides a practical approach to analyzing variable dependencies in Python code, specifically tailored for the Software Maintenance and Evolution course. By utilizing this tool, developers can gain insights into the structure and interactions of variables, facilitating effective software maintenance, evolution, and decision-making processes.
-
 ---
 
 **Happy slicing! ✂️**
