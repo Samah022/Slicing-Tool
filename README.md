@@ -30,6 +30,13 @@ To ensure accurate slicing results and compatibility with the tool, please obser
 - Unassigned variables are not supported; all variables must be initialized and assigned a value.
 - Print statements are disregarded in the analysis.
 
+## Authors ✍️
+
+- Bassant Mahmoud
+- Salwa Shamma
+- Samah Shamma
+- Sana Shamma
+- Samah Channa 
 ---
 
 **Happy slicing! ✂️**
